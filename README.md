@@ -62,11 +62,12 @@ Target:
 
 ## Performance Comparison
 
-| Model | Accuracy | Precision | Recall | F1 |
-|--------|----------|-----------|--------|----|
-| Logistic Regression | XX | XX | XX | XX |
-| Decision Tree | XX | XX | XX | XX |
-| Random Forest | XX | XX | XX | XX |
+| Model               |     Accuracy |    Precision |       Recall |     F1-Score |
+| ------------------- | -----------: | -----------: | -----------: | -----------: |
+| Logistic Regression | **0.978087** | **0.981594** | **0.979750** | **0.980671** |
+| Decision Tree       | **0.999671** | **0.999760** | **0.999660** | **0.999710** |
+| Random Forest       | **0.999614** | **0.999500** | **0.999820** | **0.999660** |
+
 
 ---
 
